@@ -8,7 +8,7 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 1.1 OBJETIVOS ESPECÍFICOS 
 
--
+- Emplear el método de análisis de malla que se basa en la ley de Kirchhoff para expresar el voltaje en función de la corriente.  
 
 -
 
