@@ -56,15 +56,15 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 5. VIDEO 
 
+https://www.youtube.com/watch?v=hHttn6rIApc
 
 6. CONCLUSIONES 
 
 - Con el uso de la ley de voltajes de Kirchhoff aplicado a mallas se puede encontrar de manera las sencilla las corrientes de cada malla que conforman un circuito, sin embargo se debe tener en cuenta el sentido de la corriente para poder polarizar de forma adecuada cada componente del circuito 
 
 - Después de realizar los cálculos aplicando la ley de Kirchhoff se puede concluir que los resultados no difieren en gran porcentaje con los obtenidos en el simulador.  
-- 
+
 - Luego de haber realizado la simulación, se puedo notar que el método de mallas es muy útil ya que nos brinda valores que casi se acercan a la realidad sin tomar en cuenta el margen que siempre va existir, todo depende de identificar de forma correcta cada malla y realizar las mediciones  o calculos de forma adecuada.
-- 
 
 
 
@@ -74,6 +74,6 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 - Gonzales, A. G. (26 de julio de 2013). PanamaHitex. Obtenido de panamahitex: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/
 
 - Yelsin Vilca, (2 junio de 2020). SensoricX. Obtenido de  SensoricX:  https://sensoricx.com/circuitos-electricos-dc/como-efectuar-analisis-de-circuitos-por-mallas/
--  
+
 - Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education    http://etm2021.com/sbiblioteca/Libros/ELECTRICIDAD%20Y%20MAQUINAS%20ELECTRICAS/INTRODUCCION%20AL%20ANALISIS%20DE%20CIRCUITOS%20-%20Boylestad.pdf
  
