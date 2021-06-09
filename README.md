@@ -16,6 +16,7 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 2. MARCO TEÓRICO 
 
+![](https://user-images.githubusercontent.com/84998005/121273119-1c8eda00-c88d-11eb-9f9f-6cc59abadd42.png)
 
 
 
