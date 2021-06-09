@@ -50,6 +50,7 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR 
 
+![](https://user-images.githubusercontent.com/84998005/121277850-1140ac00-c897-11eb-86b4-8c3bda721ee2.png)
 
 5. VIDEO 
 
