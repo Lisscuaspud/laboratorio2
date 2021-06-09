@@ -18,9 +18,6 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 ![](https://user-images.githubusercontent.com/84998005/121273119-1c8eda00-c88d-11eb-9f9f-6cc59abadd42.png)
 
-
-
-
 3.EXPLICACIÓN DEL PROCEDIMIENTO 
 
 3.1 MATERIAL 
@@ -28,6 +25,14 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 
 3.2 PROCEDIMIENTO 
+
+Implemente  el circuito  que se representa en la figura.
+
+
+
+Mida cada una de las corrientes de  malla y anote los resultados en la tabla 2.1
+
+
 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR 
