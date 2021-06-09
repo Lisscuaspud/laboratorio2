@@ -11,7 +11,7 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 - Emplear el método de análisis de malla que se basa en la ley de Kirchhoff para expresar el voltaje en función de la corriente.  
 
 - Implementar en cada una de las mallas que forman parte del circuito la ley de Kirchhoff para poder asi junto con la ley de Omh encontrar la corriente que circula en cada una de las ya mencionadas mallas  
-- 
+
 - Comprender el método de análisis de mallas e identificarlas en los circuitos dados.
 
 
@@ -63,7 +63,7 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 - Después de realizar los cálculos aplicando la ley de Kirchhoff se puede concluir que los resultados no difieren en gran porcentaje con los obtenidos en el simulador.  
 - 
-- Luego de haber realizado la simulación, se puedo notar que el método de mallas es muy útil ya que nos brinda valores que casi se acercan a la realidad sin tomar en cuenta el margen que siempre va existir, todo depende de identificar de forma correcta cada malla.
+- Luego de haber realizado la simulación, se puedo notar que el método de mallas es muy útil ya que nos brinda valores que casi se acercan a la realidad sin tomar en cuenta el margen que siempre va existir, todo depende de identificar de forma correcta cada malla y realizar las mediciones  o calculos de forma adecuada.
 - 
 
 
