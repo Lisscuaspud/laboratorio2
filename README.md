@@ -22,9 +22,25 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 3.1 MATERIAL 
 
+-Fuente de Voltaje de CD
+
+-Multimetro Digital
+
+-Resistor 820 ohmios
+
+-Resistor 390 ohmnios
+
+-Resistor 1 kilohmnio
+
+-Resistor 1,2 kilohmnio
+
+-Resistor 2,2 kilohmnio
+
+-Protoboard
 
 
 3.2 PROCEDIMIENTO 
+
 
 Implemente  el circuito  que se representa en la figura.
 
