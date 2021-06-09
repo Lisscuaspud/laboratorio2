@@ -4,7 +4,7 @@ AUTORES  Joseline Cuaspud  Kevin Dota  Bryan Pasato
 
 1. OBJETIVO GENERAL 
 
-Verificar si los resultados de las corrientes de malla obtenidos en el simulador concuerdan con los valores de los cálculos realizados en el proceso analítico mediante la técnica de mallas, y a su vez encontrar el porcentaje de error que se genera. 
+Verificar si los resultados de las corrientes de malla obtenidos en el simulador concuerdan con los valores de los encontrados con la ley de voltajes de Kirchhoff aplicados a cada malla que forma parte del circuito propuesto en la guia para demostrar asi como se relaciona la ley de Ohm y la ley de voltajes de Kirchhoff
 
 1.1 OBJETIVOS ESPECÍFICOS 
 
@@ -44,13 +44,11 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 Implemente  el circuito  que se representa en la figura.
 
-![](https://user-images.githubusercontent.com/84998005/121275270-e6a02480-c891-11eb-9e1c-9f3585f37b5a.png)
 
-Mida cada una de las corrientes de  malla y anote los resultados en la tabla 1
 
-TABLA I 
+Mida cada una de las corrientes de  malla y anote los resultados en la tabla 2.1
 
-![](https://user-images.githubusercontent.com/84998005/121275274-e869e800-c891-11eb-866a-407e879c4626.png)
+
 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR 
