@@ -10,9 +10,9 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 - Emplear el método de análisis de malla que se basa en la ley de Kirchhoff para expresar el voltaje en función de la corriente.  
 
--
+- Implementar en cada una de las mallas que forman parte del circuito la ley de Kirchhoff para poder asi junto con la ley de Omh encontrar la corriente que circula en cada una de las ya mencionadas mallas
 
--
+
 
 2. MARCO TEÓRICO 
 
@@ -41,12 +41,9 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 3.2 PROCEDIMIENTO 
 
+![](https://user-images.githubusercontent.com/84397282/121273444-e69e2580-c88d-11eb-9f48-9136fb0490cc.jpg)
 
-Implemente  el circuito  que se representa en la figura.
-
-
-
-Mida cada una de las corrientes de  malla y anote los resultados en la tabla 2.1
+![](https://user-images.githubusercontent.com/84397282/121273448-e736bc00-c88d-11eb-9843-6dff230e6f3e.jpg)
 
 
 
@@ -59,16 +56,13 @@ Mida cada una de las corrientes de  malla y anote los resultados en la tabla 2.1
 
 6. CONCLUSIONES 
 
--
+- Con el uso de la ley de voltajes de Kirchhoff aplicado a mallas se puede encontrar de manera las sencilla las corrientes de cada malla que conforman un circuito, sin embargo se debe tener en cuenta el sentido de la corriente para poder polarizar de forma adecuada cada componente del circuito 
 
--
 
--
+
+
 
 7. BIBLIOGRAFÍA
 
--
+- Gonzales, A. G. (26 de julio de 2013). PanamaHitex. Obtenido de panamahitex: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/
 
--
-
--
