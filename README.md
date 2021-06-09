@@ -10,7 +10,9 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 - Emplear el método de análisis de malla que se basa en la ley de Kirchhoff para expresar el voltaje en función de la corriente.  
 
-- Implementar en cada una de las mallas que forman parte del circuito la ley de Kirchhoff para poder asi junto con la ley de Omh encontrar la corriente que circula en cada una de las ya mencionadas mallas
+- Implementar en cada una de las mallas que forman parte del circuito la ley de Kirchhoff para poder asi junto con la ley de Omh encontrar la corriente que circula en cada una de las ya mencionadas mallas  
+- 
+- Comprender el método de análisis de mallas e identificarlas en los circuitos dados.
 
 
 
@@ -59,7 +61,10 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 - Con el uso de la ley de voltajes de Kirchhoff aplicado a mallas se puede encontrar de manera las sencilla las corrientes de cada malla que conforman un circuito, sin embargo se debe tener en cuenta el sentido de la corriente para poder polarizar de forma adecuada cada componente del circuito 
 
-- Después de realizar los cálculos aplicando la ley de Kirchhoff se puede concluir que los resultados no difieren en gran porcentaje con los obtenidos en el simulador.
+- Después de realizar los cálculos aplicando la ley de Kirchhoff se puede concluir que los resultados no difieren en gran porcentaje con los obtenidos en el simulador.  
+- 
+- Luego de haber realizado la simulación, se puedo notar que el método de mallas es muy útil ya que nos brinda valores que casi se acercan a la realidad sin tomar en cuenta el margen que siempre va existir, todo depende de identificar de forma correcta cada malla.
+- 
 
 
 
@@ -68,4 +73,7 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 - Gonzales, A. G. (26 de julio de 2013). PanamaHitex. Obtenido de panamahitex: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/
 
-- Yelsin Vilca, (2 junio de 2020). SensoricX. Obtenido de  SensoricX:  https://sensoricx.com/circuitos-electricos-dc/como-efectuar-analisis-de-circuitos-por-mallas/ 
+- Yelsin Vilca, (2 junio de 2020). SensoricX. Obtenido de  SensoricX:  https://sensoricx.com/circuitos-electricos-dc/como-efectuar-analisis-de-circuitos-por-mallas/
+-  
+- Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education    http://etm2021.com/sbiblioteca/Libros/ELECTRICIDAD%20Y%20MAQUINAS%20ELECTRICAS/INTRODUCCION%20AL%20ANALISIS%20DE%20CIRCUITOS%20-%20Boylestad.pdf
+ 
