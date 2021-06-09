@@ -44,11 +44,13 @@ Verificar si los resultados de las corrientes de malla obtenidos en el simulador
 
 Implemente  el circuito  que se representa en la figura.
 
+![](https://user-images.githubusercontent.com/84998005/121275270-e6a02480-c891-11eb-9e1c-9f3585f37b5a.png)
 
+Mida cada una de las corrientes de  malla y anote los resultados en la tabla 1
 
-Mida cada una de las corrientes de  malla y anote los resultados en la tabla 2.1
+TABLA I 
 
-
+![](https://user-images.githubusercontent.com/84998005/121275274-e869e800-c891-11eb-866a-407e879c4626.png)
 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR 
